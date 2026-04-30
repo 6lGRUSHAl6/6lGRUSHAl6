@@ -1,35 +1,28 @@
 <div align="center">
 
-# 6IGRUSHAI6
+# 6lGRUSHAl6
 
 ---
 
-### My stack
+### 🛠️ My Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [SoloVoice](https://github.com/6IGRUSHAI6/SoloVoice) | discord voice project | Python |
-| [EffectNoKill](https://github.com/6IGRUSHAI6/EffectNoKill) | frozen player for minecraft  | Java |
+| [SoloVoice](https://github.com/6lGRUSHAl6/SoloVoice) | 🎤 Discord voice project | Python |
+| [EffectNoKill](https://github.com/6lGRUSHAl6/EffectNoKill) | ❄️ Frozen player for Minecraft | Java |
 
 ---
 
-### GitHub Stats
+### 🌐 My Website
 
-<img src="https://github-readme-stats.vercel.app/api?username=6IGRUSHAI6&theme=radical&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6IGRUSHAI6&layout=compact&theme=radical&hide_border=true" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=6IGRUSHAI6&theme=radical&hide_border=true" height="150"/>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=6IGRUSHAI6&color=blueviolet&style=flat-square" alt="Profile views"/>
+[![Website](https://img.shields.io/badge/zov.zov4ik--goida.fun-000000?style=for-the-badge&logo=safari&logoColor=white)](https://zov.zov4ik-goida.fun)
 
 </div>
