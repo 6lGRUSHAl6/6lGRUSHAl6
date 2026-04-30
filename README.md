@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ My Stack
+### My Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 My Website
+### My Website
 
 [![Website](https://img.shields.io/badge/zov.zov4ik--goida.fun-000000?style=for-the-badge&logo=safari&logoColor=white)](https://zov.zov4ik-goida.fun)
 
