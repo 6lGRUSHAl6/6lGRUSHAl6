@@ -2,7 +2,7 @@
 
 # 6lGRUSHAl6
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Elixir+and+C+enjoyer;Building+low-level+stuff;Currently+shipping+GoToEasyAscii" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=love+Elixir" alt="Typing SVG" /> </div> <br> <div align="center">
 
 </div>
 
