@@ -2,11 +2,9 @@
 
 # 6lGRUSHAl6
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=love+Elixir" alt="Typing SVG" /> </div> <br> <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=love+Elixir" alt="Typing SVG" />
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -16,8 +14,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -30,8 +26,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ## GitHub Stats
@@ -40,8 +34,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=6lGRUSHAl6&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -52,8 +44,6 @@
 </a>
 
 </div>
-
-<br>
 
 <div align="center">
 
