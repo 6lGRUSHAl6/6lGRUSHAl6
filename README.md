@@ -22,7 +22,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**feature-wallpaper**](https://github.com/6lGRUSHAl6/feature-wallpaper) | A native wallpaper manager for Linux | `Elixir` `C` |
-| [**GoToEasyAscii**](https://github.com/6lGRUSHAl6/GoToEasyAscii) | 🎨 Photo → colored ASCII art converter | `Go` |
+| [**GoToEasyAscii**](https://github.com/6lGRUSHAl6/GoToEasyAscii) | ASCII art generator from images | `Go` |
 
 </div>
 
