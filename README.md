@@ -31,7 +31,7 @@
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=6lGRUSHAl6&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7F7F7&icon_color=F7F7F7" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=6lGRUSHAl6&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=6lGRUSHAl6&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 
 </div>
 
