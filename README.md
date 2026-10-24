@@ -29,13 +29,14 @@
 ## 📈 GitHub Stats
 
 <!-- Карточка языков -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=6lGRUSHAl6&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7F7F7&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6lGRUSHAl6&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7F7F7&langs_count=8" alt="Top Languages" height="165"/>
 
 <br/>
 
-<!-- Карточки Streak и общей статистики -->
+<!-- Карточка серии коммитов -->
 <img src="https://streak-stats.demolab.com/?user=6lGRUSHAl6&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" height="165" />
 &nbsp;&nbsp;
+<!-- Карточка общей статистики -->
 <img src="https://github-readme-stats.vercel.app/api?username=6lGRUSHAl6&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="165" />
 
 </div>
