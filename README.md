@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌐 Где меня найти
+## Где меня найти
 
 <div align="center">
 
